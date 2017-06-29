@@ -1,0 +1,1 @@
+export const USE_API:string = 'http://localhost:3000'
